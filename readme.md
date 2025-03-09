@@ -1,6 +1,6 @@
 
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00FA9A&height=200&section=header&text=🚀%20Mohammed%20Danish&fontSize=50&fontColor=FFFFFF)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00FA9A&height=200&section=header&text=%20Mohammed%20Danish&fontSize=50&fontColor=FFFFFF)
 
 ## 🚀 About Me  
 I'm a **Senior Data Engineer at Accenture** 🏢, passionate about **AI/ML, Data Science, and Automation**. My journey in **Computer Science & Engineering** has led me to explore cutting-edge **technologies, big data, and AI-driven innovations**.
