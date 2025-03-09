@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Mohammed Danish!  
+
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00FA9A&height=200&section=header&text=🚀%20Mohammed%20Danish&fontSize=50&fontColor=FFFFFF)
 
