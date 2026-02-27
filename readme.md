@@ -6,7 +6,7 @@
 
 ### *✦ Hey, I'm **Mohammed Danish** — where data meets decisions.*
 
-⚔️ Armed with Python, SQL, Advanced Excel, and Power BI, I don't just crunch numbers — I interrogate them until they confess insights. Fresh out of the classroom and already deep in dashboards, queries, and automations.
+⚔️ Armed with **Python**, **SQL**, **Advanced Excel**, and **Power BI**, I don't just crunch numbers — I interrogate them until they confess insights. Fresh out of the classroom and already deep in dashboards, queries, and automations.
 
 I believe good analysis isn't just accurate — it's convincing. If the data has a story, I'll find it, clean it, visualize it, and make it boardroom-ready.
 
