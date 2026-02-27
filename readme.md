@@ -3,9 +3,12 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00FA9A&height=200&section=header&text=%20Mohammed%20Danish&fontSize=50&fontColor=FFFFFF)
 
 ## 🚀 About Me  
-**A Recent graduate from SRMIST** 🏢, passionate about **Web applications, AI/ML, Data Science, and Automation**. My journey in **Computer Science & Engineering** has led me to explore cutting-edge **technologies, big data, and AI-driven innovations**.
+**Hey, I'm Mohammed Danish — where data meets decisions.** ,
+Armed with Python, SQL, Advanced Excel, and Power BI, I don't just crunch numbers — I interrogate them until they confess insights. Fresh out of the classroom and already deep in dashboards, queries, and automations.
 
-I thrive on **creating projects** that make an impact—whether it's **gesture-controlled interfaces for accessibility**, **financial tracking tools**, or **fitness tech platforms**.  
+I believe good analysis isn't just accurate — it's convincing. If the data has a story, I'll find it, clean it, visualize it, and make it boardroom-ready.
+
+Fresh start. Sharp tools. Zero tolerance for vague insights.
 
 > 🚀 “Innovate. Automate. Elevate.”  
 
