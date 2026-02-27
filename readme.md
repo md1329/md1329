@@ -4,7 +4,7 @@
 
 ## 🚀 SELECT * FROM Mohammed_Danish  
 
-**Hey, I'm Mohammed Danish — where data meets decisions.**
+### *✦ Hey, I'm **Mohammed Danish** — where data meets decisions.*
 
 Armed with Python, SQL, Advanced Excel, and Power BI, I don't just crunch numbers — I interrogate them until they confess insights. Fresh out of the classroom and already deep in dashboards, queries, and automations.
 
