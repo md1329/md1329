@@ -29,9 +29,12 @@ Fresh start. Sharp tools. Zero tolerance for vague insights.
 ---
 
 ## 🌟 Notable Projects  
-🚀 **[Product-Performance-Usage-Analysis](#)** - From Raw Data to Revenue-Driving Insights **Python & SQL**.  
+🚀 **[Product-Performance-Usage-Analysis](#)** - From Raw Data to Revenue-Driving Insights **Python & SQL**.
+
 📊 **[Product-Analytics-User-Retention](#)** - Where Product Metrics Meet Business Intelligence **Python & Power BI**.
+
 📊 **[Human-Capital-Intelligence-Analysis](#)** - Metrics That Matter, Insights That Move Needles **SQL & Power BI**.
+
 🏋 **[Gold's Gym - Fitness Website](#)** - Live workout data using **React.js & Rapid APIs**.  
 
 ---
