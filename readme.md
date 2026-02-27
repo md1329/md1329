@@ -2,8 +2,9 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00FA9A&height=200&section=header&text=%20Mohammed%20Danish&fontSize=50&fontColor=FFFFFF)
 
-## 🚀 About Me  
-**Hey, I'm Mohammed Danish — where data meets decisions.** ,
+## 🚀 SELECT * FROM Mohammed_Danish  
+**Hey, I'm Mohammed Danish — where data meets decisions.**
+
 Armed with Python, SQL, Advanced Excel, and Power BI, I don't just crunch numbers — I interrogate them until they confess insights. Fresh out of the classroom and already deep in dashboards, queries, and automations.
 
 I believe good analysis isn't just accurate — it's convincing. If the data has a story, I'll find it, clean it, visualize it, and make it boardroom-ready.
