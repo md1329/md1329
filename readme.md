@@ -23,32 +23,6 @@ I thrive on **creating projects** that make an impact—whether it's **gesture-c
 
 ---
 
-## 📊 GitHub Stats  
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=md1329&theme=tokyonight&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=md1329&show_icons=true&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md1329&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 🏆 GitHub Trophies  
-![Trophies](https://github-profile-trophy.vercel.app/?username=md1329&theme=onedark&no-frame=true&row=1)
-
----
-
-## 🕹️ Fun Stuff: GitHub Snake Game 🐍
-![Snake animation](https://github.com/md1329/md1329/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🌟 Notable Projects  
 🚀 **[Gesture-Controlled Virtual Mouse](#)** - AI-powered touch-free interface using **MediaPipe & CNNs**.  
 📊 **[Expense Tracker & Financial Advisor](#)** - Smart financial management with **Next.js & Tailwind CSS**.  
@@ -57,10 +31,10 @@ I thrive on **creating projects** that make an impact—whether it's **gesture-c
 ---
 
 ## 📜 Certifications & Achievements  
-🏅 **AWS Academy Machine Learning Foundation**  
-🏅 **Oracle Certified Foundations Associate**  
-🏅 **Google AI & ML Internship (AICTE)**  
-
+🏅 **Google Data Analytics(Google)**  
+🏅 **Microsoft PowerBI Data Analyst(Microsoft)**  
+🏅 **Career Essential in Data Analysis(Linkedin)**  
+🏅 **Career Essential in Business Analysis(Linkedin)** 
 ---
 
 ## 📬 Let's Connect!  
