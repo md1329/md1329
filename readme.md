@@ -1,6 +1,6 @@
 
 
-https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,50:16213E,100:0F3460&height=220&section=header&text=Mohammed%20Danish&fontSize=55&fontColor=00D4FF&fontAlignY=38&desc=Data%20%26%20Business%20Analyst&descSize=20&descAlignY=58&descFontColor=FFFFFF
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00FA9A&height=200&section=header&text=%20Mohammed%20Danish&fontSize=50&fontColor=FFFFFF)
 
 ## 🚀 SELECT * FROM Mohammed_Danish  
 **Hey, I'm Mohammed Danish — where data meets decisions.**
