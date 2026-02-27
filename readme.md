@@ -14,11 +14,11 @@ I thrive on **creating projects** that make an impact—whether it's **gesture-c
 ## 🔥 Tech Stack & Skills  
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
-![Power BI](https://img.shields.io/badge/PowerBI-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![Power BI](https://img.shields.io/badge/PowerBI-F7DF1E?style=flat-square&logo=PowerBI&logoColor=black)  
 ![Excel](https://img.shields.io/badge/Excel-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
-![Sheets](https://img.shields.io/badge/Sheets-F05032?style=flat-square&logo=git&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-000000?style=flat-square&logo=flask&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-009688?style=flat-square&logo=fastapi&logoColor=white)  
+![Sheets](https://img.shields.io/badge/Sheets-F05032?style=flat-square&logo=sheets&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=flat-square&logo=NumPy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-009688?style=flat-square&logo=matplotlib&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)  
 
 ---
