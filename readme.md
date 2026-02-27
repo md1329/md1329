@@ -10,7 +10,7 @@
 
 I believe good analysis isn't just accurate — it's convincing. If the data has a story, I'll find it, clean it, visualize it, and make it boardroom-ready.
 
-🌱 Fresh start. Sharp tools. Zero tolerance for vague insights.
+Fresh start. Sharp tools. Zero tolerance for vague insights.🌱
 
 > 🚀 “Innovate. Automate. Elevate.”  
 
