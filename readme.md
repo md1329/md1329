@@ -3,6 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00FA9A&height=200&section=header&text=%20Mohammed%20Danish&fontSize=50&fontColor=FFFFFF)
 
 ## 🚀 SELECT * FROM Mohammed_Danish  
+
 **Hey, I'm Mohammed Danish — where data meets decisions.**
 
 Armed with Python, SQL, Advanced Excel, and Power BI, I don't just crunch numbers — I interrogate them until they confess insights. Fresh out of the classroom and already deep in dashboards, queries, and automations.
@@ -28,8 +29,8 @@ Fresh start. Sharp tools. Zero tolerance for vague insights.
 ---
 
 ## 🌟 Notable Projects  
-🚀 **[Gesture-Controlled Virtual Mouse](#)** - AI-powered touch-free interface using **MediaPipe & CNNs**.  
-📊 **[Expense Tracker & Financial Advisor](#)** - Smart financial management with **Next.js & Tailwind CSS**.  
+🚀 **[Product-Performance-Usage-Analysis](#)** - From Raw Data to Revenue-Driving Insights **Python & SQL**.  
+📊 **[Product-Analytics-User-Retention](#)** - Where Product Metrics Meet Business Intelligence **Python & Power BI**.  
 🏋 **[Gold's Gym - Fitness Website](#)** - Live workout data using **React.js & Rapid APIs**.  
 
 ---
