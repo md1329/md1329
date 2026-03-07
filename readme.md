@@ -34,14 +34,14 @@ Fresh start. Sharp tools. Zero tolerance for vague insights.🌱
 📊 **[Product-Analytics-User-Retention](#)** - Where Product Metrics Meet Business Intelligence **Python & Power BI**.
 
 📊 **[Human-Capital-Intelligence-Analysis](#)** - Metrics That Matter, Insights That Move Needles **SQL & Power BI**.
-
-🏋 **[Gold's Gym - Fitness Website](#)** - Live workout data using **React.js & Rapid APIs**.  
+  
 
 ---
 
 ## 📜 Certifications & Achievements  
-🏅 **Google Data Analytics(Google)**  
-🏅 **Microsoft PowerBI Data Analyst(Microsoft)**  
+🏅 **Google Data Analytics Professional Certificate(Google)**  
+🏅 **Microsoft PowerBI Data Analyst Professional Certificate(Microsoft)**
+🏅 **Google Project Management Professional Certificate(Google)** 
 🏅 **Career Essential in Data Analysis(Linkedin)**  
 🏅 **Career Essential in Business Analysis(Linkedin)** 
 ---
